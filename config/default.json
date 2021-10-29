@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Travis123:travis123@devconnector.rtfnj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "shhhh"
+}
